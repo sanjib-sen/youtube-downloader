@@ -9,8 +9,14 @@ def setap():
     command = 'setx /M path "%path%;'+__location__+'"'
     print(command)
     f= open("usr.config","w+")
-    f.close() 
-    #abcd = '%SYSTEMROOT%\System32\WindowsPowerShell\\v1.0\powershell.exe -Command '+command
+    f.close()
+    f3= open("command.txt","w+")
+    f3.write((command))
+    f3.close()
+
+"""
+    This is for Changing the Environt PATH Variable
+
     process = subprocess.Popen(['runas', '/noprofile', '/user:Administrator', 'NeedsAdminPrivilege.exe', command], shell = True,stdout = subprocess.PIPE, stderr=subprocess.STDOUT)
     while True:
         time.sleep(1)
@@ -23,7 +29,7 @@ def setap():
             print(line)
             nms.config(Text = line)
             nms.grid(row =2,column = 2)
-            
+"""         
 
 
 
