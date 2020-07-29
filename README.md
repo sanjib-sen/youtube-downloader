@@ -9,7 +9,7 @@ Looking for Description? It is basically in the name. It is based on youtube-dl 
 
 1. It is not recommended to Use the software in this Alpha Version. I will work on the Bugs and Features and will officially release the Software in the Upcoming Days (Within 1 or 2 Weeks). After that You can use this app. But if you are familier with Development and like to do Alpha Testing and plan to Contribute in this Project, Please do so. It will be very helpful for me.
    
-2. I still didn't manage to set ***Environmental PATH Variable*** without requiring Adminstration Priviliges.  I am working with that Right Now. Until I finally fix this, you have to change the **PATH** using Command Prompt. Don't worry, it is just one command, and required only once.
+2. I still didn't manage to set ***Environmental PATH Variable*** without requiring Adminstration Priviliges.  I am working with that Right Now. I am planning to direct communicate with the youtube-dl daemon and make things work through this. Which will be effective and faster and also more secure. then I will completely remove the PATH Requirement Policy. Until I finally fix this, you have to change the **PATH** using Command Prompt. Don't worry, it is just one command, and required only once.
 
 3. I will release the .exe file after fixing the PATH issues.
 
@@ -17,7 +17,7 @@ Looking for Description? It is basically in the name. It is based on youtube-dl 
 
 5. There are still a lot of bugs here and there. I couldn't give enough time to the project because of Academic (University Life) Pressure. I will continue to fix most of the bugs in a week.
 
-6. **(Contributors Only):** The variable names, Indentations and Formatting used in this softwares are very bad and not convenient. It is because of the lack of time and sleep I got duing the development. (I feel like a drunk person). Also it is my first project.
+6. **(Contributors Only):** The variable names, Indentations and Formatting used in this softwares are very ugly and not convenient. It is because of the lack of time and sleep I got duing the development. (I feel like a drunk person). Also it is my first project.
 
 ## Installation
 
@@ -25,7 +25,7 @@ Looking for Description? It is basically in the name. It is based on youtube-dl 
 2. Download and Extract the zip **"YDL_But_GUI.zip"**.
 3. Run  **"Ins.exe"**.
 4. Click **Install**.
-5. You will see two new files.One of them is named **"command.txt"**. Open it.
+5. You will see two new files. One of them is named **"command.txt"**. Open it.
 6. Copy the only line in the file.
 7. Open **CMD (Command Prompt)** as **Adminstrator**. Paste the line.Hit Enter if you donot see **"Success"** as the output.
 
@@ -34,8 +34,8 @@ The line will look like this: **(Do not Use this Line)**.
 
 ![CMD](/Screenshots/CMD.png)
 
-6. Open **"YDL_but_GUI.exe"** and you are good to go.
-7. **(Optional but Recommended)** : You can always use the software from Desktop by Creating a Shortcut. (Right Click > Create Shortcut)
+8. Open **"YDL_but_GUI.exe"** and you are good to go.
+9. **(Optional but Recommended)** : You can always use the software from Desktop by Creating a Shortcut. (Right Click > Create Shortcut)
 
 ## Supported Features till now
 
