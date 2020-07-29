@@ -21,18 +21,20 @@ Looking for Description? It basically is in the name. It is based on youtube-dl 
 
 ## Installation
 
-1. Run  **"Setup.exe"**.
-2. Click **Install**.
-3. You will see two new files.One of them is named **"command.txt"**. Open it.
-4. Copy the only line in the file.
-5. Open **CMD (Command Prompt)** as **Adminstrator**. Paste the line.Hit Enter if you donot see **"Success"** as the output.
+1. Go to [Release](https://github.com/sanjib-sen/YDL_But_GUI/releases/)
+2. Download and Extract the zip **"YDL_But_GUI.zip"**.
+3. Run  **"Ins.exe"**.
+4. Click **Install**.
+5. You will see two new files.One of them is named **"command.txt"**. Open it.
+6. Copy the only line in the file.
+7. Open **CMD (Command Prompt)** as **Adminstrator**. Paste the line.Hit Enter if you donot see **"Success"** as the output.
 
 The line will look like this: **(Do not Use this Line)**.
 >*setx /M path "%path%;D:\Coding\Side Projects\YDL_But_GUI"*
 
 ![CMD](/Screenshots/CMD.png)
 
-6. Open **"YDL_But_GUI.exe"** and you are good to go.
+6. Open **"YDL_but_GUI.exe"** and you are good to go.
 7. **(Optional but Recommended)** : You can always use the software from Desktop by Creating a Shortcut. (Right Click > Create Shortcut)
 
 ## Supported Features till now
