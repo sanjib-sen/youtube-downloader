@@ -2,6 +2,9 @@
 
 Looking for Description? It basically is in the name. It is based on youtube-dl but for normal people. Plus, you will get most of the beautiful features of youtube-dl with constant updates and somewhat decent **(!)** UI. Apparently this is my first Software and I am looking for the Feedbacks.
 
+## Images
+![Front](/Screenshots/All.png)
+
 ## Alpha Version Notes
 
 1. I still didn't manage to set ***Environmental Path Variable*** without requiring Adminstration Priviliges.  I am working with that Right Now. Until I finally fix this, you have change the ***PATH*** using Command Prompt. Don't worry, it is just one command, requires only once.
@@ -22,8 +25,11 @@ Looking for Description? It basically is in the name. It is based on youtube-dl 
 4. You will see two new files.One of them is named **"command.txt"**. Open it.
 5. Copy the only line in the file.
 6. Open CMD (Command Prompt) as Adminstrator. Paste the line.Hit Enter if you donot see **"Success"** as the output.
-7. Open **"YDL_But_Gui.exe"** and you are good to go.
-8. **(Optional but Recommended)** : You can always use the software from Desktop by Creating a Shortcut.
+   
+![CMD](/Screenshots/CMD.png)
+
+1. Open **"YDL_But_Gui.exe"** and you are good to go.
+2. **(Optional but Recommended)** : You can always use the software from Desktop by Creating a Shortcut.
 
 ## Supported Features till now
 
@@ -49,4 +55,3 @@ Looking for Description? It basically is in the name. It is based on youtube-dl 
 
 1. [youtube-dl](https://github.com/ytdl-org/youtube-dl) for base.
 2. [ffmpeg](https://github.com/FFmpeg/FFmpeg) for codec conversion.
-# YDL_But_GUI
