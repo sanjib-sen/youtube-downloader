@@ -1,4 +1,4 @@
-# YDL_But_GUI
+# youtube-downloader
 
 Looking for Description? It is basically in the name. It is based on youtube-dl but for normal people. Plus, you will get most of the beautiful features of youtube-dl with constant updates and somewhat decent **(!)** UI. Apparently this is my first Software and I am looking for the feedbacks.
 
